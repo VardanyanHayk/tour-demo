@@ -1,0 +1,43 @@
+.red{
+  background: red;
+}
+.width{
+
+  height: 500px;
+}
+
+.absolute{
+  position: relative;
+}
+.card{
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+.boxShadow{
+  background: white;
+  width: 95%;
+  border: 1px solid black;
+  position: absolute;
+  bottom: -20px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0.5, 0.6, 0.7, 0.19);
+
+}
+.btnIcon{
+  width: 25px;
+  height: 25px;
+  background: red;
+  border-radius: 13px;
+  overflow: hidden;
+  margin: 2px;
+}
+.navIcon{
+  width: 60px;
+  height: 60px;
+
+}
+.rounded{width: 100px;
+  border-radius: 20px;
+}
